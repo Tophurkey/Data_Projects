@@ -1,0 +1,224 @@
+﻿continent,location,Pearsons r
+Africa,Benin,NULL
+Africa,Lesotho,NULL
+Africa,Saint Helena,NULL
+Asia,Macao,NULL
+Asia,Northern Cyprus,NULL
+Asia,Turkmenistan,NULL
+Europe,Faeroe Islands,NULL
+Europe,Gibraltar,NULL
+Europe,Guernsey,NULL
+Europe,Isle of Man,NULL
+Europe,Jersey,NULL
+North America,Anguilla,NULL
+North America,Aruba,NULL
+North America,Bermuda,NULL
+North America,Bonaire Sint Eustatius and Saba,NULL
+North America,British Virgin Islands,NULL
+North America,Cayman Islands,NULL
+North America,Curacao,NULL
+North America,Greenland,NULL
+North America,Haiti,NULL
+North America,Montserrat,NULL
+North America,Nicaragua,NULL
+North America,Sint Maarten (Dutch part),NULL
+North America,Turks and Caicos Islands,NULL
+Oceania,Cook Islands,NULL
+Oceania,French Polynesia,NULL
+Oceania,Nauru,NULL
+Oceania,New Caledonia,NULL
+Oceania,Niue,NULL
+Oceania,Pitcairn,NULL
+Oceania,Samoa,NULL
+Oceania,Solomon Islands,NULL
+Oceania,Tonga,NULL
+Oceania,Tuvalu,NULL
+Oceania,Vanuatu,NULL
+Oceania,Wallis and Futuna,NULL
+South America,Falkland Islands,NULL
+Africa,Madagascar,-0.999999999999447
+Africa,Burkina Faso,-0.999999998409251
+North America,Antigua and Barbuda,-0.995645295915364
+Europe,Albania,-0.973341247089111
+Europe,Slovakia,-0.957552282004942
+Africa,Cameroon,-0.953545165803298
+Asia,Armenia,-0.927171133022516
+North America,Jamaica,-0.915196300384166
+NULL,Europe,-0.914466530216532
+Europe,Moldova,-0.845188148748473
+Africa,Mauritius,-0.819085668414026
+North America,Barbados,-0.816181809885421
+NULL,North America,-0.813848028799177
+Europe,Bosnia and Herzegovina,-0.809443239828335
+Asia,United Arab Emirates,-0.789936527412919
+Europe,Latvia,-0.782891081777279
+Africa,Sao Tome and Principe,-0.77545073132556
+Asia,Lebanon,-0.773464758743562
+Europe,Switzerland,-0.770002922444239
+South America,Peru,-0.7670247354112
+NULL,European Union,-0.764087843534975
+Africa,Mali,-0.7323474469502
+Africa,Central African Republic,-0.731319394998107
+Africa,Cote d'Ivoire,-0.729949375208323
+Europe,Czechia,-0.729741126706437
+Europe,Malta,-0.698352125143098
+Asia,Hong Kong,-0.687931945533294
+North America,United States,-0.675061441652512
+Europe,Slovenia,-0.666418322474294
+Europe,Montenegro,-0.643180594279408
+Europe,Liechtenstein,-0.633491032093894
+Europe,North Macedonia,-0.623328441856454
+Africa,Gambia,-0.607131503239733
+Asia,Israel,-0.603185714469284
+Europe,Italy,-0.596509400844702
+Asia,Syria,-0.580600027732501
+North America,Canada,-0.569818105947918
+Europe,Spain,-0.551734883394008
+Europe,Ukraine,-0.541884489331142
+Africa,Equatorial Guinea,-0.537888387434592
+Europe,Austria,-0.536076470142932
+Europe,Germany,-0.525686951831019
+Europe,Poland,-0.523609424055511
+Europe,Lithuania,-0.49643688230782
+Europe,Estonia,-0.48721921172433
+Europe,Romania,-0.467759235308757
+Europe,Netherlands,-0.453620426352302
+Europe,Portugal,-0.435051335500338
+Europe,France,-0.429810632257307
+NULL,World,-0.420340450569757
+Africa,Gabon,-0.40372253389662
+Africa,Guinea,-0.396908882140954
+Asia,Palestine,-0.388565493176808
+North America,Mexico,-0.38789447102906
+Europe,Kosovo,-0.365216167011715
+Europe,Norway,-0.361368526641431
+Oceania,Papua New Guinea,-0.339140512168124
+Europe,Luxembourg,-0.323752892199558
+Europe,San Marino,-0.320274120630858
+Europe,Belgium,-0.318153017894029
+Europe,Finland,-0.312614322866246
+Africa,Djibouti,-0.309355587856918
+Asia,Uzbekistan,-0.288260518513985
+Europe,Bulgaria,-0.284842240492128
+Africa,Cape Verde,-0.266221213748499
+Africa,Liberia,-0.255772374599603
+Asia,Jordan,-0.2426671715317
+Europe,Andorra,-0.205842319100236
+Europe,United Kingdom,-0.189376436102655
+Asia,Brunei,-0.162342795790922
+Asia,Philippines,-0.145687029486321
+Europe,Monaco,-0.119301633621666
+Europe,Ireland,-0.113613637596466
+Oceania,New Zealand,-0.104017839101402
+Africa,Congo,-0.0893518059184215
+Asia,Japan,-0.0823289247015348
+Asia,Azerbaijan,-0.0728280566985235
+Asia,Turkey,-0.0707016979440052
+Africa,Senegal,-0.0643958144377911
+North America,Grenada,-0.0418695764116141
+Europe,Iceland,-0.0382676316615986
+South America,Brazil,-0.0205204203141298
+Europe,Croatia,-0.00311951825546221
+North America,Dominica,0.0245749749260682
+Africa,Togo,0.0390543302626966
+Asia,Taiwan,0.0751614470454217
+Asia,Iran,0.0793169087639078
+Europe,Greece,0.0936404600602977
+Asia,Laos,0.0954774669861996
+Europe,Denmark,0.115486538197652
+Asia,Iraq,0.138549680524991
+Asia,Qatar,0.143383290056034
+Europe,Hungary,0.153073153820704
+Asia,Myanmar,0.160758783384174
+Africa,Ethiopia,0.162400638306903
+South America,Paraguay,0.188482657068822
+South America,Ecuador,0.199363348575765
+NULL,Asia,0.258740894993384
+North America,Trinidad and Tobago,0.259656646110717
+Africa,Angola,0.26248238168037
+Europe,Belarus,0.292747779320617
+Europe,Serbia,0.309661991111665
+Africa,Seychelles,0.311355989955723
+Africa,Mozambique,0.33414409044076
+South America,Uruguay,0.334678504789525
+Asia,India,0.340984440337607
+Asia,Oman,0.361768643781041
+North America,El Salvador,0.367359131515842
+Asia,Pakistan,0.386913633650035
+Africa,Botswana,0.38768110522772
+North America,Bahamas,0.427002908764844
+Asia,Georgia,0.448298157945473
+North America,Saint Lucia,0.454193065701701
+NULL,South America,0.45539756199361
+Africa,Libya,0.468408586059004
+Asia,Bahrain,0.472369762657384
+Africa,Malawi,0.477555720224478
+Africa,Rwanda,0.496108741659428
+Asia,Nepal,0.499447269689082
+North America,Panama,0.503613845634723
+Africa,Egypt,0.50487267954406
+South America,Chile,0.526982306513221
+Asia,Sri Lanka,0.527499130855096
+Africa,Eswatini,0.556480331728715
+Africa,Kenya,0.558593203852084
+Africa,Morocco,0.563272158060979
+Africa,Niger,0.573407271054419
+Europe,Cyprus,0.576092243391582
+Africa,Zimbabwe,0.584303906348172
+Asia,Maldives,0.601287619957603
+Asia,South Korea,0.609573243611794
+Asia,Timor,0.650878834327413
+Africa,Sierra Leone,0.656558194760198
+North America,Costa Rica,0.657680695200732
+Asia,Bangladesh,0.662317569471784
+South America,Argentina,0.67020664037232
+Asia,Yemen,0.674583566855733
+Africa,Zambia,0.6930063001373
+NULL,Oceania,0.699735906195966
+Asia,Kuwait,0.717161284337808
+Oceania,Australia,0.719503311341151
+Africa,Nigeria,0.720477869698643
+North America,Honduras,0.730424020433867
+North America,Belize,0.742379150397211
+South America,Suriname,0.751203344945182
+Asia,Indonesia,0.769669959139677
+Africa,South Sudan,0.778692106628796
+South America,Bolivia,0.789545908938363
+Asia,China,0.790516649821351
+NULL,Africa,0.794726606747132
+North America,Dominican Republic,0.799128351661059
+North America,Saint Kitts and Nevis,0.804886752122574
+Asia,Mongolia,0.811084676425254
+Oceania,Fiji,0.813049020381393
+Africa,Algeria,0.815755401777777
+North America,Guatemala,0.819577202178993
+Asia,Bhutan,0.835642883440209
+Africa,Tunisia,0.836676229093194
+North America,Saint Vincent and the Grenadines,0.839821294818874
+Africa,Guinea-Bissau,0.841022517650361
+South America,Venezuela,0.841080517149812
+South America,Colombia,0.842427517940285
+Africa,Uganda,0.844054577082305
+Europe,Sweden,0.849088333215295
+North America,Cuba,0.855728911207226
+Asia,Vietnam,0.868646252573525
+Asia,Kazakhstan,0.872062395097184
+Asia,Malaysia,0.872138233238994
+Africa,Comoros,0.876731849385947
+South America,Guyana,0.879218608915145
+Africa,Somalia,0.893358869633541
+Asia,Kyrgyzstan,0.896788041581227
+Asia,Saudi Arabia,0.900574803449873
+Asia,Thailand,0.920381441325669
+Asia,Cambodia,0.949985441690819
+Asia,Singapore,0.952286212078112
+Europe,Russia,0.956880387547227
+Africa,Ghana,0.958157088982266
+Asia,Tajikistan,0.963654474706754
+Africa,Namibia,0.963722864724854
+Asia,Afghanistan,0.968802605507886
+Africa,Sudan,0.972975841470303
+Africa,Democratic Republic of Congo,0.973967323261047
+Africa,Mauritania,0.985802733375907
+Africa,South Africa,0.98656495803256
+Africa,Chad,0.999999999601841

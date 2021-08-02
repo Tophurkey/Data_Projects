@@ -2,3 +2,4 @@
 [0m2021.07.31 19:10:28 INFO  time: initialize in 0.58s[0m
 [0m2021.07.31 19:10:28 WARN  Build server is not auto-connectable.[0m
 [0m2021.07.31 19:10:28 WARN  no build tool detected in workspace 'C:\Users\Topher\workspace\Data_Projects'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.31 20:48:14 INFO  shutting down Metals[0m

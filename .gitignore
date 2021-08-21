@@ -1,0 +1,4 @@
+
+ETL/twitch_secrets.txt
+*.log
+ETL/airflow-docker/logs/scheduler/latest

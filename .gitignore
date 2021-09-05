@@ -3,3 +3,6 @@ ETL/twitch_secrets.txt
 *.log
 ETL/airflow-docker/logs/scheduler/latest
 ETL/airflow-docker/logs/dag_processor_manager/dag_processor_manager.log
+*.1
+*.log
+ETL/airflow-docker/logs/dag_processor_manager/dag_processor_manager.log

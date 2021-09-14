@@ -6,3 +6,4 @@ ETL/airflow-docker/logs/dag_processor_manager/dag_processor_manager.log
 *.1
 *.log
 ETL/airflow-docker/logs/dag_processor_manager/dag_processor_manager.log
+ETL/airflow-docker/logs/dag_processor_manager/dag_processor_manager.log
